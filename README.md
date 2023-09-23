@@ -23,4 +23,10 @@
 ![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/a72bfd4d-e2a0-411c-ac68-642d299f5d0d)
 ![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/c2892cec-7db7-4061-acda-63aacacd5d69)
 
+# GUARD BOTU
+![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/eddc6e82-d6ce-4c33-97f1-f359b2017b9d)
+![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/76ed021c-5161-4de6-ad20-a9546ae2cfe7)
+![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/71b7ca24-7909-40ac-97fe-d4690f08d584)
+
+
 
