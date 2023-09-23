@@ -3,7 +3,7 @@
 
 # Selam değerli dostlar bu repoda benle darkdays'ın ortak şekilde yaptığı PM2 botundan kısaca özet geçicem. 
 # İçerisinde Guard (koruma) Supervisor (stat eğlence mod kayıt inviter tarzı botlar) ve welcome (kayıt kanallarında bekleyen botlar) bulunmakta.
-
+# 250 STARDA PAYLAŞABİLİRİZ
 # Satın Almak İçin WinTey-747991566085521428 Veya Darkdays-852757286375129128 Ulaşabilirsiniz.
 
 ![image](https://github.com/WinTey/V14-pm2-bots/assets/109214173/b4bb8ee6-4bc4-4cbf-96d9-afd22a9a4167)
