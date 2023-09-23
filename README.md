@@ -1,7 +1,7 @@
 # V14-pm2-bots
  gelişmiş v14 pm2 botu
 
-# Selam değerli dostlar bu repoda benle darkdays'ın ortak şekilde yaptığımız PM2 botundan kısaca özet geçicem. 
+# Selam değerli dostlar bu repoda benle darkdays'ın ortak şekilde yaptığı PM2 botundan kısaca özet geçicem. 
 # İçerisinde Guard (koruma) Supervisor (stat eğlence mod kayıt inviter tarzı botlar) ve welcome (kayıt kanallarında bekleyen botlar) bulunmakta.
 
 # Satın Almak İçin WinTey-747991566085521428 Veya Darkdays-852757286375129128 Ulaşabilirsiniz.
